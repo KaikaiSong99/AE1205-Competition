@@ -9,11 +9,11 @@
 
 - Try to earn as many points as you can by fixing turbines
 
-{{<img src="images\sketch\sketch1.png">}}
-*overall game layout*
+<img src="images\sketch\sketch1.png">
+<center>overall game layout</center>
 
-{{<img src="images\sketch\sketch2.png">}}
-*game dynamics*
+<img src="images\sketch\sketch2.png">
+<center>game dynamics</center>
 
-{{<img src="images\sketch\sketch3.png">}}
-*game over*
+<img src="images\sketch\sketch3.png">
+<center>game over</center>
