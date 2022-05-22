@@ -11,12 +11,9 @@
 
 <img src="images\sketch\sketch1.png">
 <center>overall game layout</center>
-<br>
 
 <img src="images\sketch\sketch2.png">
 <center>game dynamics</center>
-<br>
 
 <img src="images\sketch\sketch3.png">
 <center>game over</center>
-<br>
